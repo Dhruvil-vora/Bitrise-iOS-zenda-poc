@@ -630,7 +630,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.bitrise.sample.Bitrise-iOS-Cocoapods-Sample";
+				PRODUCT_BUNDLE_IDENTIFIER = com.zenda.poc;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "Bitrise-iOS-Sample-Wildcard-Dev";
 				SWIFT_VERSION = 5.0;
@@ -729,7 +729,7 @@
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.bitrise.sample.Bitrise-iOS-Cocoapods-SampleUITests";
+				PRODUCT_BUNDLE_IDENTIFIER = com.zenda.pocUitest;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				PROVISIONING_PROFILE_SPECIFIER = "Bitrise-iOS-Sample-Wildcard-Dev";
@@ -755,7 +755,7 @@
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.bitrise.sample.Bitrise-iOS-Cocoapods-SampleUITests";
+				PRODUCT_BUNDLE_IDENTIFIER = com.zenda.pocUitest;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				PROVISIONING_PROFILE_SPECIFIER = "";

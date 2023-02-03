@@ -16,11 +16,11 @@ target 'Bitrise-iOS-Cocoapods-Sample' do
   # Pods for Bitrise-iOS-Cocoapods-Sample
   common_pods
 
-  target 'Bitrise-iOS-Cocoapods-SampleTests' do
-    inherit! :search_paths
+ # target 'Bitrise-iOS-Cocoapods-SampleTests' do
+  #  inherit! :search_paths
     # Pods for testing
-    common_pods
-  end
+   # common_pods
+  #end
 
   target 'Bitrise-iOS-Cocoapods-SampleUITests' do
     # Pods for testing

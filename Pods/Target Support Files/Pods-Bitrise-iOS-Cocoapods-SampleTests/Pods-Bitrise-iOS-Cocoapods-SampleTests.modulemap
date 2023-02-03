@@ -1,6 +1,0 @@
-framework module Pods_Bitrise_iOS_Cocoapods_SampleTests {
-  umbrella header "Pods-Bitrise-iOS-Cocoapods-SampleTests-umbrella.h"
-
-  export *
-  module * { export * }
-}

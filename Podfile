@@ -5,7 +5,7 @@ source 'https://cdn.cocoapods.org/'
 platform :ios, '11.7'
 
 def common_pods
-    pod 'FirebaseAnalytics', '~> 9.2.0'
+  pod 'Firebase/Crashlytics', '~> 8.3'
 end
 
 target 'Bitrise-iOS-Cocoapods-Sample' do
